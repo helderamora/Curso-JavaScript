@@ -1,0 +1,32 @@
+h1 {
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: darkolivegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    font-size: 42px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+button {
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(118, 216, 240);
+    width: 80px;
+    height: 30px;
+}
+
+.btn {
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+}
