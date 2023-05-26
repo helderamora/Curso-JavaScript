@@ -1,1 +1,1 @@
-console.log("10"- "4" - "3" - 2 + "5");
+let numero = Number( input.question('Digite um numero'));
